@@ -5,5 +5,6 @@ import ch.qos.logback.core.net.SyslogOutputStream;
 public class Hello {
 		
 	 System.out.println("Email notification sent successfully.");
+	 System.out.println("Email notification sent successfully.");
 
 }
